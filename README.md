@@ -1,13 +1,9 @@
-Thanks for the clarification! Here's the updated `README.md` for your Java implementation of BFS and Floyd-Warshall:
-
----
-
 # Graph Algorithms in Java: BFS and Floyd-Warshall
 
 This project contains Java implementations of two fundamental graph algorithms:
 
-- **Breadth-First Search (BFS)**
-- **Floyd-Warshall Algorithm**
+Breadth-First Search (BFS)
+Floyd-Warshall Algorithm
 
 ## Table of Contents
 
@@ -162,7 +158,3 @@ Contributions are welcome! To contribute to this repository:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace the sample input/output with actual ones from your implementation and customize the repository URL accordingly!
