@@ -61,8 +61,8 @@ To run the project locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/graph-algorithms-java.git
-   cd graph-algorithms-java
+   git clone [https://github.com/your-username/graph-algorithms-java.git](https://github.com/mahamudul-hasan/BFS_Algorithm/)
+   cd BFS_Algorithm
    ```
 
 2. **Set up the Java environment**:
